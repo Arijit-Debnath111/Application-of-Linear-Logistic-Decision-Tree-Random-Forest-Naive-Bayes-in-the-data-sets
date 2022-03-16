@@ -9,4 +9,6 @@ Then following ML algos are used like
                                      5)Naive Bayes
 
 For this two data sets are used
+                               1)data.csv
+                               2)Diabetes
 
