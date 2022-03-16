@@ -12,3 +12,5 @@ For this two data sets are used
                                1)data.csv
                                2)Diabetes
 
+In this repositories we have used the sklearn library to import Linear,Logistic and other ML models for experiment
+
